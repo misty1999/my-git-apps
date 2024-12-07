@@ -11,9 +11,9 @@ Web UIからタイトルと本文を入力すると、指定したGitHubリポ�
    - 作成したGitHub Appをissueを作成したいリポジトリにインストール
 
 2. 環境設定:
-   - `.env`ファイルをプロジェクトルートに作成し、以下を設定：
+   - `.env`ファイルを/backendディレクトリに作成し、以下を設定：
    ```
-   GITHUB_APP_ID=【作成したアプリのID】
+   GITHUB_APP_ID=【作成したGitHub AppのID】
    ```
    - GitHub Appのprivate keyをダウンロードし、`/backend/private_key.pem`として保存
 
