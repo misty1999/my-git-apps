@@ -15,7 +15,7 @@ Web UIからタイトルと本文を入力すると、指定したGitHubリポ�
    ```
    GITHUB_APP_ID=【作成したGitHub AppのID】
    ```
-   - GitHub Appのprivate keyをダウンロードし、`/backend/private_key.pem`として保存
+   - GitHub Appのprivate keyをダウンロードし、`/backend/private-key.pem`として保存
 
 ### ビルド・起動方法
 
