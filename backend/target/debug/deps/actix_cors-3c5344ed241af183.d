@@ -1,0 +1,10 @@
+/home/misty1999/misty1999/git_app/backend/target/debug/deps/libactix_cors-3c5344ed241af183.rmeta: /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/lib.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/all_or_some.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/builder.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/error.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/inner.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/middleware.rs
+
+/home/misty1999/misty1999/git_app/backend/target/debug/deps/actix_cors-3c5344ed241af183.d: /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/lib.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/all_or_some.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/builder.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/error.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/inner.rs /home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/middleware.rs
+
+/home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/lib.rs:
+/home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/all_or_some.rs:
+/home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/builder.rs:
+/home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/error.rs:
+/home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/inner.rs:
+/home/misty1999/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-cors-0.6.5/src/middleware.rs:
